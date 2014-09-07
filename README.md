@@ -5,7 +5,7 @@ Facebook exercize assigned as homework
 
 This is an iOS Swift demo application replicating Facebook App
 
-Time spent: 18.7 hours spent in total (4 hours of which was work on Dropbox homework prior to Thur. class)
+Time spent: 19.2 hours spent in total (4 hours of which was work on Dropbox homework prior to Thur. class)
 
 Completed user stories:
 
