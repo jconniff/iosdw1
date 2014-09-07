@@ -13,7 +13,6 @@ Completed user stories:
  * [x] Required: User can click on a movie in the list to bring up a details page with additional information such as synopsis
  * [x] Optional: Placeholder image is used for movie posters loaded in from the network
 
-
 Setup:
  * [x] Required: Create a new project (disable Auto Layout). Guide
  * [x] Required: Add the image assets above. Guide
@@ -47,6 +46,6 @@ I left colored backgrounds in view controllers because that was one of the miles
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](ios_class_hw_w1_01.gif)
+![Video Walkthrough](recording_w1_02.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
