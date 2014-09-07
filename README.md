@@ -5,7 +5,7 @@ Facebook exercize assigned as homework
 
 This is an iOS Swift demo application replicating Facebook App
 
-Time spent: 14.7 hours spent in total (plus 4 hours work on Dropbox homework prior to Thur. class)
+Time spent: 18.7 hours spent in total (4 hours of which was work on Dropbox homework prior to Thur. class)
 
 Completed user stories:
 
@@ -43,8 +43,7 @@ Bonus
 
  
 Notes:
-
-Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
+I left colored backgrounds in view controllers because that was one of the milestones. If I removed them later, you would not know if I had done it.
 
 Walkthrough of all user stories:
 
